@@ -18,7 +18,7 @@ Elections in India are often faced with violence due to the ever growing dissati
 
 ## Architecture
 
-<img src="unnamed (1).png" width="200" height="200">
+<img src="unnamed (1).png" width="400" height="400">
 
 ## Installation Instructions
 
@@ -29,7 +29,7 @@ Elections in India are often faced with violence due to the ever growing dissati
 5. Run
 
 ```
-npx hardhate node
+npx hardhat node
 ```
 This will provide you with 20 mock Ethereum accounts with mock currency to execute operations in the website.
 
