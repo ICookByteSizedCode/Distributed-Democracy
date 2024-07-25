@@ -1,0 +1,18 @@
+
+
+.button{
+    margin-block: 2rem;
+    background-color: transparent;
+    border: 1px dotted #FFA500;
+    padding: .5rem 1rem;
+    color: #FFA500;
+    border-radius: 1rem;
+    cursor: pointer;
+    font-weight: 600;
+    transition: all .4s ease-in-out;
+}
+
+.button:hover{
+    background-color: #FFA500;
+    color: #231E39;
+}

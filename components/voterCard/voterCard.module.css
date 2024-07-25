@@ -1,0 +1,8 @@
+.vote_Status{
+    background-color: #FFA500;
+    padding: .5rem 1rem;
+    font-size: 1.3rem;
+    color: #fff;
+    font-weight: 700;
+    border-radius: .2rem;
+}
