@@ -34,11 +34,13 @@ This should provide you with 20 mock Ethereum accounts with mock currency to exe
 npx hardhat run scripts/deploy.js --network localhost
 ```
 This should deploy the solidity contracts onto the localhost network.
+
 7. In another terminal, run
 ```
 npm run dev
 ```
 This should start the server and the website should now be live.
+
 8. Ensure you have the Metamask extension for Chrome installed. This will allow you to load your currency.
 9. You can now register candidates/users and cast votes.
 10. Candidate information, voter information and votes are now stored on the blockchain and can be audited to assess election fairness and integrity.
