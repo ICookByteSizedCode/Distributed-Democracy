@@ -10,8 +10,8 @@ import { VotingAddress, VotingAddressABI } from "./constants";
 
 import { Buffer } from 'buffer';
 
-const projectId = '2MkaI1E2a8nuNEArySr7MJyaXrk';
-const projectSecret = 'f5e7c5ab08fb4d80474390b772fc9887';
+const projectId = '';
+const projectSecret = '';
 const auth =
 'Basic ' + Buffer.from(projectId + ':' + projectSecret).toString('base64');
 
