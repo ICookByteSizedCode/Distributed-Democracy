@@ -18,7 +18,7 @@ Elections in India are often faced with violence due to the ever growing dissati
 
 ## Architecture
 
-<img src="unnamed (1).png" width="400" height="400">
+<img src="unnamed (1).png" width="1000" height="600">
 
 ## Installation Instructions
 
