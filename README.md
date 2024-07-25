@@ -27,19 +27,19 @@ Elections in India are often faced with violence due to the ever growing dissati
 ```
 npx hardhate node
 ```
-This should provide you with 20 mock Ethereum accounts with mock currency to execute operations in the website.
+This will provide you with 20 mock Ethereum accounts with mock currency to execute operations in the website.
 6. Run
 
 ```
 npx hardhat run scripts/deploy.js --network localhost
 ```
-This should deploy the solidity contracts onto the localhost network.
+This will deploy the solidity contracts onto the localhost network.
 
 7. In another terminal, run
 ```
 npm run dev
 ```
-This should start the server and the website should now be live.
+This will start the server and the website will now be live.
 
 8. Ensure you have the Metamask extension for Chrome installed. This will allow you to load your currency.
 9. You can now register candidates/users and cast votes.
