@@ -10,7 +10,7 @@ In this project, we have created a voting system that allows officers of the ele
 
 By incorporating SSI (Self Sovereign Identity), we have also ensured that the voters’ privacy and security is given the utmost care. Using SSI, a voter’s PII (Personally identifiable information) is kept safe from data breaches by only giving information in a form that cannot be used to distinguish them from other voters, thus ensuring their privacy. Since the votes are recorded on the blockchain, this ensures the security and integrity of the election by preventing any attempts at committing fraud.
 
-An extensive report about this project can be found (here)[https://drive.google.com/file/d/1RaybDD0mtVOovGBOBpIt42fr3lul00WA/view?usp=sharing].
+An extensive report about this project can be found [here](https://drive.google.com/file/d/1RaybDD0mtVOovGBOBpIt42fr3lul00WA/view?usp=sharing).
 
 ## Motivation
 
@@ -32,6 +32,7 @@ Elections in India are often faced with violence due to the ever growing dissati
 npx hardhate node
 ```
 This will provide you with 20 mock Ethereum accounts with mock currency to execute operations in the website.
+
 6. Run
 
 ```
@@ -45,7 +46,7 @@ npm run dev
 ```
 This will start the server and the website will now be live.
 
-8. Ensure you have the Metamask extension for Chrome installed. This will allow you to load your currency.
+8. Ensure you have the Metamask extension for Chrome installed. This will allow you to load your currency which will be used to pay gas fees.
 9. You can now register candidates/users and cast votes.
 10. Candidate information, voter information and votes are now stored on the blockchain and can be audited to assess election fairness and integrity.
 
