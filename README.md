@@ -53,5 +53,5 @@ This will start the server and the website will now be live.
 ## Future Works
 
 1. Introduce SSI to protect and enhance voter privacy and election transparency.
-2. There is always room for improvement. We are currently working on introducing ranked choice voting, a system which improves fairness in elections by allowing voters to rank candidates in order of preference.
+2. Introduce ranked choice voting, a system which improves fairness in elections by allowing voters to rank candidates in order of preference.
 3. This system can be produced as a mobile app ensuring widespread adoption.
