@@ -1,9 +1,13 @@
 # Distributed Democracy
 
+A blockchain based e-voting system that allows for third party auditing to maintain election integrity.
+
 ## Introduction
 
 Distributed Democracy aims to revolutionise the process of voting by introducing the concept of blockchains and self-sovereign identity.
+
 In this project, we have created a voting system that allows officers of the election commission to register new candidates and new voters. The registered candidates can upload their name, age, picture and stance. The registered voters can also do the same as well as cast a single vote to a registered candidate of their choice. Their vote will be recorded on the blockchain. This ensures immutability and by extension transparency for the election to be freely audited by an independent third party. Transparency is our main goal here since it gives citizens the confidence that they participated in a free and fair election.
+
 By incorporating SSI (Self Sovereign Identity), we have also ensured that the voters’ privacy and security is given the utmost care. Using SSI, a voter’s PII (Personally identifiable information) is kept safe from data breaches by only giving information in a form that cannot be used to distinguish them from other voters, thus ensuring their privacy. Since the votes are recorded on the blockchain, this ensures the security and integrity of the election by preventing any attempts at committing fraud.
 
 An extensive report about this project can be found (here)[https://drive.google.com/file/d/1RaybDD0mtVOovGBOBpIt42fr3lul00WA/view?usp=sharing].
